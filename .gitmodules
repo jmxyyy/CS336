@@ -1,0 +1,6 @@
+[submodule "example"]
+	path = example
+	url = git@github.com:weiruihhh/cs336_note_and_hw.git
+[submodule "lectures"]
+	path = lectures
+	url = git@github.com:stanford-cs336/lectures.git
